@@ -4,12 +4,12 @@
 ------
 
 Android Version：
-- [Github Apk](https://github.com/xiaoming198/apks/raw/master/xiaoming-2.0.5_gt.apk "Github Apk") 
+- [Github APK](https://github.com/xiaoming198/apks/raw/master/xiaoming-2.0.5_gt.apk "Github APK") 
 - [Google Play Store](http://play.google.com/store/apps/details?id=com.xiaoming.vpn "Google Play Store")  
 
 
 iOS Version：
-- Coming soon in AppStore
+- Coming soon in App Store
 
 
 ## Principle of Xiaoming VPN：
