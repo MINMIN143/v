@@ -1,6 +1,6 @@
 ## Xiaoming VPN
 
-> Xiaoming VPN help you to access to the Internet free by proxy. Just one Key to use.
+> Xiaoming VPN help you to access to the Internet free by proxy. Just one key to use.
 ------
 
 Android Version：
