@@ -39,7 +39,7 @@ Personal Information:
 Without the consent of the user, the XiaomingVPN will not intentionally disclose the content of the privacy of the user to any third party, nor apply to any third-party websites, services or applications that can be accessed through our services, except as otherwise stated in this Privacy Policy. We respects and protects all users’ privacy. We will never and shall not have the right to sell, trade, disclosure or otherwise transfer your information to the third parties for any purposes without user’s permission.
 
 
-###Sharing of Your Information
+### Sharing of Your Information
 
 We will not rent or sell your information into third parties. We can not control the behavior of other users who share information and privacy with you. We can not, and will not control the use of your products and other users to share information and privacy, or can not and will not control these users of information and privacy use and sharing. We are not responsible for any acts of third party to circumvent our security measures.
 
