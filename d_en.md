@@ -1,6 +1,6 @@
 ## Xiaoming VPN
 
-> Xiaoming VPN help you to access to the Internet free by proxy. Just one key to use.
+> Xiaoming VPN help you to access Internet using VPN Servers. No sign up, no purchase. Just one key to use. 
 ------
 
 Android Version：
@@ -15,9 +15,11 @@ iOS Version：
 ## Principle of Xiaoming VPN：
 - Just one key to use
 - Feel free to use
+- No sign up, no purchase.
 - Keep updating and available to use
 - Contains only one set of ad 
 
-## Xiaoming VPN Privacy Policy
+## Xiaoming VPN User Policy
 
-> We respect and protect the privacy of all users. In order to provide good user service and improve the user experience, we will let you know how we collect, use and share this private information in accordance with this Privacy Policy. We will not disclose or provide such private information to third parties without your permission.
+- [Terms of Service](https://github.com/xiaoming198/apks/raw/master/xiaoming-2.0.5_gt.apk "Terms of Service") 
+- [Privacy Policy](http://play.google.com/store/apps/details?id=com.xiaoming.vpn "Privacy Policy")  
