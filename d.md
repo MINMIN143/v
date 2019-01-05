@@ -3,18 +3,15 @@
 > 世界那么大，我想去看看，小明VPN免费帮您快速、便捷、自由地访问互联网。一键科学上网。
 ------
 
-最新版下载地址：
+
+安卓版：
 - [官网下载](https://github.com/xiaoming198/apks/raw/master/xiaoming-2.0.5_gt.apk "官网下载") 
 - [谷歌市场](http://play.google.com/store/apps/details?id=com.xiaoming.vpn "谷歌市场")  
 
 
-在当前VPN的大环境下，
-- 还有多少个VPN能用？
-- 还有多少个VPN免费？
-- 还有多少个同行活着？
+苹果版：
+- 敬请期待
 
-
-**这个行业这么不好混，能坚持的都是勇士，不需要的请不要抹杀**
 
 ## 小明VPN的原则：
 - 小明VPN永久免费，一键使用
