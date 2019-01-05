@@ -22,4 +22,4 @@ iOS Version：
 ## Xiaoming VPN User Policy
 
 - [Terms of Service](https://github.com/xiaoming198/apks/raw/master/xiaoming-2.0.5_gt.apk "Terms of Service") 
-- [Privacy Policy](http://play.google.com/store/apps/details?id=com.xiaoming.vpn "Privacy Policy")  
+- [Privacy Policy](https://github.com/xm19/v/blob/master/privacy-policy.md "Privacy Policy")  
