@@ -4,7 +4,7 @@
 ------
 
 Android Version：
-- [Github APK](https://github.com/xm19/a/raw/master/xiaoming-2.0.8_gt.apk "Github APK") 
+- [Github APK](https://github.com/xm19/a/raw/master/xiaoming-2.0.9_gt.apk "Github APK") 
 - [Google Play Store](http://play.google.com/store/apps/details?id=com.xiaoming.vpn "Google Play Store")  
 
 
