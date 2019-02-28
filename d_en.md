@@ -1,22 +1,22 @@
 ## Xiaoming VPN
 
-> Xiaoming VPN help you to access Internet using VPN Servers. No sign up, no purchase. Just one key to use. 
+> Xiaoming VPN helps you access the Internet by using VPN Servers. No signing up, no purchase. Just one key to use. 
 ------
 
 Android Version：
-- [Github APK](https://github.com/xm19/a/raw/master/xiaoming-2.1.1.apk "Github APK") 
-- [Google Play Store](http://play.google.com/store/apps/details?id=com.xiaoming.vpn "Google Play Store")  
+- [Github APK](https://github.com/xm19/a/raw/master/xiaoming-2.1.1.apk) 
+- [Google Play Store](http://play.google.com/store/apps/details?id=com.xiaoming.vpn)  
 
 
 iOS Version：
-- Coming soon in App Store
+- Coming soon on App Store
 
 
 ## Principle of Xiaoming VPN：
 - Just one key to use
 - Feel free to use
-- No sign up, no purchase.
-- Keep updating and available to use
+- No signing up, no purchase.
+- Keeps updating and available to use
 - Contains only one set of ad 
 
 ## Xiaoming VPN User Policy
